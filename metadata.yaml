@@ -1,0 +1,29 @@
+_repo: The-Dead-Men-s-Song--13-Being-the-Story-of-a-Poem-and-a-Reminiscent-Sketch-of-its-Author-Youn__19273
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hitchcock, Champion Ingraham
+    gutenberg_agent_id: '8591'
+    url: http://www.gutenberg.org/2009/agents/8591
+description: ''
+gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
+gutenberg_issued: '2006-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19273'
+  lccn: '15001038'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Allison, Young Ewing, 1853-1932'
+- !lcsh 'Stevenson, Robert Louis, 1850-1894. Treasure Island'
+- !lcsh 'Treasure Island (Imaginary place)'
+- !lcc 'PS'
+title: "The Dead Men's Song\r\nBeing the Story of a Poem and a Reminiscent Sketch\
+  \ of its Author Young Ewing Allison"
+url: http://www.gutenberg.org/ebooks/19273
