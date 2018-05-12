@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '8591'
     url: http://www.gutenberg.org/2009/agents/8591
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19273#The-Dead-Men-s-Song--13-Being-the-Story-of-a-Poem-and-a-Reminiscent-Sketch-of-its-Author-Youn_
 gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
 gutenberg_issued: '2006-09-17'
 gutenberg_type: Text
